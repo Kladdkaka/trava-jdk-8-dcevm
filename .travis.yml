@@ -57,6 +57,6 @@ deploy:
   file: openjdk-build/workspace/target/*
   skip_cleanup: true
   on:
-    repo: TravaOpenJDK/trava-jdk-8-dcevm
+    repo: Kladdkaka/trava-jdk-8-dcevm
     all_branches: true
     tags: true
